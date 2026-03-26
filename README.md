@@ -59,10 +59,10 @@ When analyzing indirect connections (A → B → C), edge weights are **multipli
 
 ## Build
 
-Open `j0230058/jo230058.sln` in Visual Studio and build, or compile manually:
+Open `drustvena_mreza/drustvena_mreza.sln` in Visual Studio and build, or compile manually:
 
 ```bash
-g++ -std=c++11 j0230058/main.cpp j0230058/graf.cpp j0230058/drustvenamreza.cpp -o social_network
+g++ -std=c++11 drustvena_mreza/main.cpp drustvena_mreza/graf.cpp drustvena_mreza/drustvenamreza.cpp -o social_network
 ```
 
 ## Menu
